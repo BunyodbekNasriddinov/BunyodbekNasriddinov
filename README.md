@@ -2,8 +2,8 @@
 
 ### How to reach me: <a href="nasriddinoffbunyodbek@gmail.com">nasriddinoffbunyodbek@gmail.com</a>
 
-- 🔭 I’m currently learning on JavaScript;
-- 💬 Ask me about Html, Css, Scss, BS5, Tailwindcss
+- 🔭 I’m currently learning on React;
+- 💬 Ask me about Html, Css, Scss, BS5, Tailwindcss, JavaScript
 
 ##
 
