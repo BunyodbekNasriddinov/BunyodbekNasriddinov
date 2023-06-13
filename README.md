@@ -18,8 +18,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" height="26"/> </a>
-<img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" alt="linux" width="26" height="26"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" height="26"/>
+<img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" alt="linux" width="30" height="30"/> </a>
 
 <br>
 <br>
