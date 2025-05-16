@@ -38,8 +38,6 @@
 ![Snake animation](https://github.com/BunyodbekNasriddinov/BunyodbekNasriddinov/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://BunyodbekNasriddinov.github.io/BunyodbekNasriddinov/github-snake-megadark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://BunyodbekNasriddinov.github.io/BunyodbekNasriddinov/github-snake.svg" />
-  <img alt="github-snake" src="https://BunyodbekNasriddinov.github.io/BunyodbekNasriddinov/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://BunyodbekNasriddinov.github.io/BunyodbekNasriddinov/github-contribution-grid-snake-dark.svg" />
 </picture>
 
