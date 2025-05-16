@@ -3,7 +3,7 @@
 ### How to reach me: <a href="nasriddinoffbunyodbek@gmail.com">nasriddinoffbunyodbek@gmail.com</a>
 
 - 🔭 I’m currently learning on Typescript;
-- 💬 Ask me about AntDesign JavaScript, Nodejs, NestJS, MongoDB, Typescript, Redis
+- 💬 Ask me about AntDesign, JavaScript, Nodejs, NestJS, MongoDB, Typescript, Redis
 
 ##
 
